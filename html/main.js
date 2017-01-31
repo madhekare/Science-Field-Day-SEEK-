@@ -1,0 +1,11 @@
+var red = [0, 55, 63];
+var orange = [0, 80, 60];
+var green = [0, 100, 40];
+var blue = [0, 77, 55];
+var purple = [0, 500, 60];
+var letterColors = [red, orange, green, purple, blue];
+var bubbleShape = "circle";
+var myName = "Esha";
+drawName(myName, letterColors);
+bounceName();
+bounceBubbles();
